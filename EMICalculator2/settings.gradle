@@ -1,0 +1,2 @@
+rootProject.name='EMI Calculator 2'
+include ':app'
